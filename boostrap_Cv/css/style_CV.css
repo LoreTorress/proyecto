@@ -1,0 +1,26 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+.container-fluid{
+	width: 100%;
+background-color: #e3f2fd;
+font-family: serif;
+border-width: 1px;
+border-color: black;
+}
+.container{
+background-color: gray-100;
+width: 70%;
+font-family: serif;
+}
+
+.slide{
+margin-top: 10px;
+background-color: blueviolet;
+}
+.slide img {
+	height: 50vh;
+	width: 100vw;
+}
+
+
